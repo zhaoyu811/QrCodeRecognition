@@ -1,0 +1,11 @@
+#debug±àÒëÄ¿Â¼
+Debug/
+#release±àÒëÄ¿Â¼
+Release/
+x64/
+.vs/
+QtCamera.VC.db
+QtCamera/Debug
+QtCamera/Release
+QtCamera/x64
+QtCamera/x64Debug
